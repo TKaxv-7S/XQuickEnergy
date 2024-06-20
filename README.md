@@ -1,10 +1,11 @@
+# 仓库已迁移，新版本在 [Sesame-TK](https://github.com/TKaxv-7S/Sesame-TK)
+
 # XQuickEnergy
 
 [![License](https://img.shields.io/github/license/constanline/XQuickEnergy.svg)](LICENSE)
 [![Latest Release](https://img.shields.io/github/release/constanline/XQuickEnergy.svg)](../../releases)
 [![All Releases Download](https://img.shields.io/github/downloads/constanline/XQuickEnergy/total.svg)](../../releases)
 
-# 仓库已迁移，新版本在 [Sesame-TK](https://github.com/TKaxv-7S/Sesame-TK)
 
 ## 主要功能
 感谢蚂蚁森林对绿化事业的贡献。快速收取蚂蚁森林能量，也为祖国的绿化事业出一份微薄之力~
