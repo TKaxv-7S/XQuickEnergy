@@ -4,6 +4,8 @@
 [![Latest Release](https://img.shields.io/github/release/constanline/XQuickEnergy.svg)](../../releases)
 [![All Releases Download](https://img.shields.io/github/downloads/constanline/XQuickEnergy/total.svg)](../../releases)
 
+# 仓库已迁移，新版本在 [Sesame-TK](https://github.com/TKaxv-7S/Sesame-TK)
+
 ## 主要功能
 感谢蚂蚁森林对绿化事业的贡献。快速收取蚂蚁森林能量，也为祖国的绿化事业出一份微薄之力~
 
@@ -11,18 +13,18 @@
 - [x] 修复原版森林功能
 - [x] 增加I18n中文
 - [x] 增加同步步数功能
-  - [x] 允许自定义步数
+    - [x] 允许自定义步数
 - [x] 修复原版农场功能
 - [x] 森林完善
-  - [x] 增加收能量限制
-  - [x] 能量雨开关
-  - [x] 赠送能量雨列表
-  - [x] 签到
-  - [x] 浇水功能
-  - [x] 7:00-7:30只收能量
-  - [x] 收取金球
-  - [x] 双击卡功能
-  - [x] 触发异常暂停，等待下次扫描
+    - [x] 增加收能量限制
+    - [x] 能量雨开关
+    - [x] 赠送能量雨列表
+    - [x] 签到
+    - [x] 浇水功能
+    - [x] 7:00-7:30只收能量
+    - [x] 收取金球
+    - [x] 双击卡功能
+    - [x] 触发异常暂停，等待下次扫描
 - [X] 保活模式
 - [x] 好友昵称
 - [x] 神奇海洋
